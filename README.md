@@ -16,4 +16,3 @@ Here are some ideas to get you started:
   ReactJS, NestJS [Javascript & Typescript]
 - 🌱 I’m currently learning: **Rust**, **Solana**, **Arweave & AO Protocol**
 - 👯 I’m looking to collaborate on Opensource Projects
-- 📫 How to reach me: ammarkhaliq@gmail.com
